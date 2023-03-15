@@ -67,6 +67,5 @@ py manage.py createsuperuser
 
 ## Feedback
 Any suggestion and feedback are  welcome.
-[Mobile No.] -> 7755922715
-[Mail Id.] -> akash.gaygol@indiraicem.ac.in
+[Mail Id.] -> sakshidhamne216@gmail.com
 
